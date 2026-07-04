@@ -3,9 +3,8 @@
 I'm a game and software developer who enjoys building things and learning by experimenting.
 
 ## 🚀 Current Projects
-- Shrek Run - A meme runner game.
+- 💚 Shrek Run - A meme runner game.
 - 🌸 Project Spring – A 3D top-down adventure game made with Godot.
-- 🏙️ Los Craftos – A Minecraft roleplay city.
 
 ## 💻 Technologies
 - Godot (GDScript)
@@ -14,16 +13,18 @@ I'm a game and software developer who enjoys building things and learning by exp
 - Git & GitHub
 - Android App development 
 - Minecraft Bedrock & Java modding/tools
-- Data Science 
+- Data Science
+- AI telegram bot
 
 ## 🌱 Currently Learning
 - Game architecture
 - Linux
+- Node.js
 - Graphics and game optimization
 - Machine Learning & AI
 
 ## 📫 Contact
-- GitHub: @YOUR_USERNAME
+- GitHub: @kayvan-sh 
 - Telegram : @this_is_K1
 
 > "The best way to learn is to build."
