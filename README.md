@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm K1 👋
 
-<!--
-**kayvan-sh/kayvan-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a game and software developer who enjoys building things and learning by experimenting.
 
-Here are some ideas to get you started:
+## 🚀 Current Projects
+- Shrek Run - A meme runner game.
+- 🌸 Project Spring – A 3D top-down adventure game made with Godot.
+- 🏙️ Los Craftos – A Minecraft roleplay city.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies
+- Godot (GDScript)
+- JavaScript
+- HTML & CSS
+- Git & GitHub
+- Android App development 
+- Minecraft Bedrock & Java modding/tools
+- Data Science 
+
+## 🌱 Currently Learning
+- Game architecture
+- Linux
+- Graphics and game optimization
+- Machine Learning & AI
+
+## 📫 Contact
+- GitHub: @YOUR_USERNAME
+- Telegram : @this_is_K1
+
+> "The best way to learn is to build."
