@@ -16,7 +16,7 @@ I'm a game and software developer who enjoys building things and learning by exp
 ![Supabase](https://img.shields.io/badge/Supabase-303030?style=for-the-badge&logo=supabase)
 ![Python](https://img.shields.io/badge/Python-303030?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-303030?style=for-the-badge&logo=pandas)
-![Minecraft Bedrock Scripting](https://img.shields.io/badge/Minecraft%20Bedrock%20Scripting-303030?style=for-the-badge&logo=data:image/svg xml;base64,PHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAxOTIgMTkyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDBoMTkydjE5MkgweiIgc3R5bGU9ImZpbGw6bm9uZSIvPjxwYXRoIGQ9Ik0yNy41NSAyMnY0NS4zM2g0NS4zM3YyMy4xMmgtMjIuMlYxNzBoMjIuMnYtMzQuMjNoNDYuMjRWMTcwaDIyLjIxVjkwLjQ1aC0yMi4yMVY2Ny4zM2g0NS4zM1YyMmgtNDUuMzN2NDUuMzNINzIuODhWMjJIMjcuNTV6IiBzdHlsZT0ic3Ryb2tlOiNmZmZmZmY7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS13aWR0aDoxMnB4O2ZpbGw6bm9uZSIvPjwvc3ZnPg==)
+![Minecraft Bedrock Scripting](https://img.shields.io/badge/Minecraft%20Bedrock%20Scripting-303030?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAxOTIgMTkyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDBoMTkydjE5MkgweiIgc3R5bGU9ImZpbGw6bm9uZSIvPjxwYXRoIGQ9Ik0yNy41NSAyMnY0NS4zM2g0NS4zM3YyMy4xMmgtMjIuMlYxNzBoMjIuMnYtMzQuMjNoNDYuMjRWMTcwaDIyLjIxVjkwLjQ1aC0yMi4yMVY2Ny4zM2g0NS4zM1YyMmgtNDUuMzN2NDUuMzNINzIuODhWMjJIMjcuNTV6IiBzdHlsZT0ic3Ryb2tlOiNmZmZmZmY7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS13aWR0aDoxMnB4O2ZpbGw6bm9uZSIvPjwvc3ZnPg==)
 
 ## 🌱 Currently Learning
 - Game architecture
