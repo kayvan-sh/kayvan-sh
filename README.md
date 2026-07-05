@@ -11,6 +11,7 @@ I'm a game and software developer who enjoys building things and learning by exp
 ![JavaScript](https://img.shields.io/badge/JavaScript-303030?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-303030?style=for-the-badge&logo=html5)
 ![Android App dev](https://img.shields.io/badge/Android-303030?style=for-the-badge&logo=android)
+![Java](https://img.shields.io/badge/java-303030?style=for-the-badge&logo=openjdk)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-303030?style=for-the-badge&logo=PostgreSQL)
 ![Git](https://img.shields.io/badge/Git-303030?style=for-the-badge&logo=git)
 ![Supabase](https://img.shields.io/badge/Supabase-303030?style=for-the-badge&logo=supabase)
