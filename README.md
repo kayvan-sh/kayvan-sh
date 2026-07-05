@@ -9,21 +9,17 @@ I'm a game and software developer who enjoys building things and learning by exp
 ## 💻 Technologies
 ![Godot](https://img.shields.io/badge/Godot-Godot-303030?style=for-the-badge&logo=godotengine)
 ![JavaScript](https://img.shields.io/badge/JavaScript-303030?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-303030?style=for-the-badge&logo=html)
+![HTML](https://img.shields.io/badge/HTML-303030?style=for-the-badge&logo=html5)
 ![Android App dev](https://img.shields.io/badge/Android-303030?style=for-the-badge&logo=android)
-![SQL](https://img.shields.io/badge/SQL-303030?style=for-the-badge&logo=sql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-303030?style=for-the-badge&logo=PostgreSQL)
 
-
-- Godot (GDScript)
 - JavaScript
 - HTML & CSS
 - Git & GitHub
-- Android App development 
 - Minecraft Bedrock & Java modding/tools
 - Data Science
 - Telegram Bot API
 - Supabase
-- PostgreSQL
 
 ## 🌱 Currently Learning
 - Game architecture
