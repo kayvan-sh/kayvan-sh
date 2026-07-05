@@ -3,7 +3,7 @@
 I'm a game and software developer who enjoys building things and learning by experimenting.
 
 ## 🚀 Current Projects
-- 💚 [Shrek Run](kayvan-sh.github.io/Shrek-Run) - A meme runner game.
+- 💚 [Shrek Run](https://kayvan-sh.github.io/Shrek-Run) - A meme runner game.
 - 🌸 Project Spring – A 3D top-down adventure game made with Godot.
 
 ## 💻 Technologies
