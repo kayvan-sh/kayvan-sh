@@ -27,6 +27,6 @@ I'm a game and software developer who enjoys building things and learning by exp
 
 ## 📫 Contact
 - GitHub: @kayvan-sh 
-- Telegram : @this_is_K1
+- Telegram : [@this_is_K1](https://t.me/this_is_K1)
 
 > "The best way to learn is to build."
