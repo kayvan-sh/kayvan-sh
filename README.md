@@ -7,11 +7,11 @@ I'm a game and software developer who enjoys building things and learning by exp
 - 🌸 Project Spring – A 3D top-down adventure game made with Godot.
 
 ## 💻 Technologies
-![Godot](https://img.shields.io/badge/Godot-00ff00?style=for-the-badge&logo=godotengine)
-![JavaScript](https://img.shields.io/badge/JavaScript-00ff00?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-00ff00?style=for-the-badge&logo=html)
-![Android App dev](https://img.shields.io/badge/SQL-00ff00?style=for-the-badge&logo=android)
-![SQL](https://img.shields.io/badge/python-00ff00?style=for-the-badge&logo=sql)
+![Godot](https://img.shields.io/badge/Godot-Godot-303030?style=for-the-badge&logo=godotengine)
+![JavaScript](https://img.shields.io/badge/JavaScript-303030?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-303030?style=for-the-badge&logo=html)
+![Android App dev](https://img.shields.io/badge/Android-303030?style=for-the-badge&logo=android)
+![SQL](https://img.shields.io/badge/SQL-303030?style=for-the-badge&logo=sql)
 
 
 - Godot (GDScript)
