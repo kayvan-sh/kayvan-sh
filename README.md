@@ -16,7 +16,7 @@ I'm a game and software developer who enjoys building things and learning by exp
 ![Supabase](https://img.shields.io/badge/Supabase-303030?style=for-the-badge&logo=supabase)
 ![Python](https://img.shields.io/badge/Python-303030?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-303030?style=for-the-badge&logo=pandas)
-![Minecraft Bedrock Scripting and modding](https://img.shields.io/badge/MCBE-303030?style=for-the-badge&logo=mcbe)
+![Minecraft Bedrock Scripting and modding](https://img.shields.io/badge/Minecraft Bedrock Scripting and modding-303030?style=for-the-badge&logo=mcbe)
 
 ## 🌱 Currently Learning
 - Game architecture
