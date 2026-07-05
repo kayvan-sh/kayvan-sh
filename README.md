@@ -14,7 +14,9 @@ I'm a game and software developer who enjoys building things and learning by exp
 - Android App development 
 - Minecraft Bedrock & Java modding/tools
 - Data Science
-- AI telegram bot
+- Telegram Bot API
+- Supabase
+- PostgreSQL
 
 ## 🌱 Currently Learning
 - Game architecture
