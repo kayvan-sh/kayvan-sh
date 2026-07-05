@@ -7,6 +7,7 @@ I'm a game and software developer who enjoys building things and learning by exp
 - 🌸 Project Spring – A 3D top-down adventure game made with Godot.
 
 ## 💻 Technologies
+![Godot](https://img.shields.io/badge/Godot-00ff00?style=for-the-badge&logo=godot)
 - Godot (GDScript)
 - JavaScript
 - HTML & CSS
