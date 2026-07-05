@@ -16,7 +16,7 @@ I'm a game and software developer who enjoys building things and learning by exp
 ![Supabase](https://img.shields.io/badge/Supabase-303030?style=for-the-badge&logo=supabase)
 ![Python](https://img.shields.io/badge/Python-303030?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-303030?style=for-the-badge&logo=pandas)
-![Minecraft Bedrock Scripting](https://img.shields.io/badge/Minecraft%20Bedrock%20Scripting-303030?style=for-the-badge&logo=data:image/svg+xml;utf6,%3Csvg%20width%3D%22800px%22%20height%3D%22800px%22%20viewBox%3D%220%200%20192%20192%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M0%200h192v192H0z%22%20style%3D%22fill%3Anone%22%2F%3E%3Cpath%20d%3D%22M27.55%2022v45.33h45.33v23.12h-22.2V170h22.2v-34.23h46.24V170h22.21V90.45h-22.21V67.33h45.33V22h-45.33v45.33H72.88V22H27.55z%22%20style%3D%22stroke%3A%23000000%3Bstroke-linejoin%3Around%3Bstroke-width%3A12px%3Bfill%3Anone%22%2F%3E%3C%2Fsvg%3E)
+![Minecraft Bedrock Scripting](https://img.shields.io/badge/Minecraft Bedrock Scripting-303030?style=for-the-badge&logo=data:image/svg xml;base64,PHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAxOTIgMTkyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDBoMTkydjE5MkgweiIgc3R5bGU9ImZpbGw6bm9uZSIvPjxwYXRoIGQ9Ik0yNy41NSAyMnY0NS4zM2g0NS4zM3YyMy4xMmgtMjIuMlYxNzBoMjIuMnYtMzQuMjNoNDYuMjRWMTcwaDIyLjIxVjkwLjQ1aC0yMi4yMVY2Ny4zM2g0NS4zM1YyMmgtNDUuMzN2NDUuMzNINzIuODhWMjJIMjcuNTV6IiBzdHlsZT0ic3Ryb2tlOiNmZmZmZmY7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS13aWR0aDoxMnB4O2ZpbGw6bm9uZSIvPjwvc3ZnPg==)
 
 ## 🌱 Currently Learning
 - Game architecture
