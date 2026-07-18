@@ -13,7 +13,7 @@ I'm a game and software developer who enjoys building things and learning by exp
 
 ## 🎯 Specializations
 
-![Minecraft Server Development](https://img.shields.io/badge/Minecraft%20Server%20Development-303030?style=for-the-badge)![Android App Development](https://img.shields.io/badge/Android%20App%20Development-303030?style=for-the-badge)![Web Development](https://img.shields.io/badge/Web%20Development-303030?style=for-the-badge)![Game Development](https://img.shields.io/badge/Game%20Development-303030?style=for-the-badge)![Bot Development (Telegram & Discord)](https://img.shields.io/badge/Bot%20Development%20(Telegram%20&%20Discord)-303030?style=for-the-badge)
+![Minecraft Server Development](https://img.shields.io/badge/Minecraft%20Server%20Development-303030?style=for-the-badge) ![Android App Development](https://img.shields.io/badge/Android%20App%20Development-303030?style=for-the-badge) ![Web Development](https://img.shields.io/badge/Web%20Development-303030?style=for-the-badge) ![Game Development](https://img.shields.io/badge/Game%20Development-303030?style=for-the-badge) ![Bot Development (Telegram & Discord)](https://img.shields.io/badge/Bot%20Development%20(Telegram%20&%20Discord)-303030?style=for-the-badge)
 
 ## 🌱 Currently Learning
 - Game architecture
